@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PokeApi-Shop/static/css/main.0fc3f364.css",
+    "main.js": "/PokeApi-Shop/static/js/main.f90dda5e.js",
+    "static/media/slider-img-1.png": "/PokeApi-Shop/static/media/slider-img-1.de63f2264c4b65f7e404.png",
+    "static/media/error.png": "/PokeApi-Shop/static/media/error.923fd4a571feb41f1f1f.png",
+    "static/media/slick.svg": "/PokeApi-Shop/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/PokeApi-Shop/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/PokeApi-Shop/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/PokeApi-Shop/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/PokeApi-Shop/index.html",
+    "static/media/spinner.svg": "/PokeApi-Shop/static/media/spinner.04726f3b93d0f93f7486acda04ecd614.svg",
+    "main.0fc3f364.css.map": "/PokeApi-Shop/static/css/main.0fc3f364.css.map",
+    "main.f90dda5e.js.map": "/PokeApi-Shop/static/js/main.f90dda5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fc3f364.css",
+    "static/js/main.f90dda5e.js"
+  ]
+}
